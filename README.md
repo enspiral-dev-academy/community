@@ -23,6 +23,8 @@ OS&F is dedicated to connecting the technical community and the empathy communit
 technical and soulful
 this event is focused on generosity of spirit.
 
-- Tweet sized summary
-- half-a-page or paragraph that summarizes ethos
-- The one-sheet as prospectus
+## Essays(?) worth writing
+
+- Open source is (should be?) kind.
+- The value of meatspace.
+- Balancing soulful and technical
