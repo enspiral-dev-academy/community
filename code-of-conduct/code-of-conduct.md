@@ -1,6 +1,6 @@
 # Code of Conduct.
 
-Based on the [Geek Feminism Conference Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+Based on the [Geek Feminism Conference Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy). See [License and Attribution](license-and-attribution) for more details
 
 ### Short version
 
@@ -102,3 +102,11 @@ Security and local authorities should be contacted when appropriate.
 As a general rule, conference staff should not make any public statements about the behavior of individual people during or after the conference.
 
 In general, consult with other staff members when possible but act when necessary.
+
+### License and attribution
+
+This policy is licensed under the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) license. It is public domain, no credit and no open licensing of your version is required.
+
+This anti-harassment policy is based on the [example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the Ada Initiative and other volunteers.
+
+This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman, Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism, and other groups contributed to this work.
