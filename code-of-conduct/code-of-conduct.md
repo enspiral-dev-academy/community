@@ -1,22 +1,38 @@
 # Code of Conduct.
 
-Based on the [Geek Feminism Conference Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy). See [License and Attribution](license-and-attribution) for more details
+Based on the [Geek Feminism Conference Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) and the [Alterconf Code of Conduct](http://www.alterconf.com/code-of-conduct). See [License and Attribution](license-and-attribution) for more details.
 
 ### Short version
 
-Open Source & Feelings is dedicated to a safe, inclusive, welcoming, and harassment-free conference experience for everyone. Our code of conduct can be found at: [TKTKTK - URL for full Code of Conduct]
+Open Source & Feelings is dedicated to a safe, inclusive, welcoming, and harassment-free conference experience for everyone.
+
+All attendees, speakers, sponsors and volunteers at Open Source and Feelings are required to abide by the code of conduct.
+
+#### Need Help?
+
+Contact the organizers: conduct@opensourceandfeelings.com or use the phone number found in the emails we sent you.
+
+Our code of conduct can be found at: [TKTKTK - URL for full Code of Conduct]
 
 ### Medium version
 
-Open Source & Feelings is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers. Our Code of Conduct can be found at: [TKTKTK - URL for full Code of Conduct]
+All attendees, speakers, sponsors and volunteers at Open Source and Feelings are required to abide by the code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
+
+Open Source & Feelings is dedicated to providing a safe, inclusive, welcoming, and harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age or religion (or lack thereof). We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers. Our Code of Conduct can be found at: [TKTKTK - URL for full Code of Conduct]
+
+No weapons of any kind, alcohol, or drugs are allowed at Open Source & Feelings venues.
 
 ### Long version
 
-Open Source & Feelings is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+#### Code of Conduct
+
+All attendees, speakers, sponsors and volunteers at Open Source & Feelings are required to abide by the code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
+
+Open Source & Feelings is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age or religion (or lack thereof). We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 Harassment includes:
 
- - verbal comments that reinforce social structures of domination related to gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age, and religion
+ - verbal comments that reinforce social structures of domination related to gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age, and religion (or lack thereof)
  - sexual images in public spaces
  - deliberate intimidation
  - stalking and following
@@ -24,6 +40,8 @@ Harassment includes:
  - sustained disruption of talks or other events
  - inappropriate physical contact
  - unwelcome sexual attention
+
+No weapons of any kind, alcohol, or drugs are allowed at AlterConf venues.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
@@ -43,7 +61,7 @@ Conference staff will be happy to help participants contact security or local la
  - [TKTKTK Local emergency and non-emergency medical (e.g., urgent care, day clinic)]
  - [TKTKTK Local taxi company]
 
-We expect participants to follow these rules at all conference venues and conference-related social events.
+_**We expect participants to follow these rules at all conference venues and conference-related social events.**_
 
 ### Internal version
 
@@ -107,6 +125,5 @@ In general, consult with other staff members when possible but act when necessar
 
 This policy is licensed under the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) license. It is public domain, no credit and no open licensing of your version is required.
 
-This anti-harassment policy is based on the [example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the Ada Initiative and other volunteers.
+This anti-harassment policy is based on the [example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the Ada Initiative and other volunteers, and the [Alterconf Code of Conduct](http://www.alterconf.com/code-of-conduct)
 
-This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman, Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism, and other groups contributed to this work.
