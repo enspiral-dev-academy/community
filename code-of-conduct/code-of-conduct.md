@@ -2,10 +2,9 @@
 
 The Open Source & Feelings code of conduct is based on the [Geek Feminism Conference Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), the [Alterconf Code of Conduct](http://www.alterconf.com/code-of-conduct), and the [Stumptown Syndicate Citizen Code of Conduct](http://citizencodeofconduct.org/). See [License and Attribution](license-and-attribution) for more details.
 
-There are three versions:
+There are two versions:
 
 - The [short version](short.md) is ideal for including with our email newsletter.
-- The [medium version](medium.md) is a summary of the long version suitable for the website and longer announcements.
 - The [long version] is suitable for the website and specifies the nuts and bolts of the policy.
 
 Additionally, we have an [enforcement policy](enforcement.md) for conference organizers.
