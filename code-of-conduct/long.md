@@ -1,5 +1,16 @@
 # Long version
 
+- [Purpose](#purpose)
+- [Open Citizenship](#open-citizenship)
+- [Code of Conduct](#code-of-conduct)
+  - [Expected Behavior](#expected-behavior)
+  - [Unacceptable Behavior](#unacceptable-behavior)
+    - [Harassment](#harassment)
+    - [Consequences of Unacceptable Behavior](#consequences-of-unacceptable-behavior)
+  - [Reporting Guidelines](#reporting-guidelines)
+  - [Scope](#scope)
+- [Contact Info](#contact-info)
+
 ## Purpose
 
 A primary goal of Open Source and Feelings is to be safe, inclusive, and welcoming to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
@@ -14,7 +25,7 @@ A supplemental goal of this Code of Conduct is to increase open citizenship by e
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
-**If you see someone who is making an extra effort to ensure our community is safe, welcoming, inclusive friendly, and encourages all participants to contribute to the fullest extent, we want to know.** Tell an organizer or email them at conduct@opensourceandfeelings.com.
+**If you see someone who is making an extra effort to ensure our community is safe, welcoming, inclusive friendly, and encourages all participants to contribute to the fullest extent, we want to know.** Tell an organizer or email them at conduct@osfeels.com.
 
 ## Code of Conduct
 
@@ -26,30 +37,30 @@ Open Source & Feelings is dedicated to providing a safe, inclusive, welcoming, h
 
 The following behaviors are expected and requested of all community members:
 
- - Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
- - Exercise consideration and respect in your speech and actions.
- - Attempt collaboration before conflict.
- - Refrain from demeaning, discriminatory, or harassing behavior and speech.
- - Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
- - Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+- Exercise consideration and respect in your speech and actions.
+- Attempt collaboration before conflict.
+- **Refrain from** demeaning, discriminatory, or harassing behavior and speech.
+- Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+- Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
 ### Unacceptable Behavior
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
- - Violence, threats of violence or violent language directed against another person
- - Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language
- - Posting or displaying sexually explicit or violent material
- - Posting or threatening to post other people’s personally identifying information ("doxing")
- - Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability
- - Inappropriate photography or recording
- - Inappropriate physical contact. You should have someone’s consent before touching them
- - Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching, groping, and unwelcome sexual advances
- - Deliberate intimidation, stalking, or following (online or in person)
- - Advocating for, or encouraging, any of the above behavior
- - Sustained disruption of community events, including talks and presentations
+- Violence, threats of violence or violent language directed against another person
+- Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language
+- Posting or displaying sexually explicit or violent material
+- Posting or threatening to post other people’s personally identifying information ("doxing")
+- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability
+- Inappropriate photography or recording
+- Inappropriate physical contact. You should have someone’s consent before touching them in any way
+- Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching, groping, and unwelcome sexual advances
+- Intimidation, stalking, or following (online or in person)
+- Advocating for, or encouraging, any of the above behavior
+- Sustained disruption of community events, including talks and presentations
 
-#H4 Harassment
+#### Harassment
 
 We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
@@ -70,7 +81,7 @@ No weapons of any kind, drugs, or alcohol are allowed at Open Source & Feelings 
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-### Consequences of Unacceptable Behavior
+#### Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
@@ -80,7 +91,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ### Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible at conduct@opensourceandfeelings.com.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible at conduct@osfeels.com.
 
 If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
 
@@ -88,34 +99,16 @@ Conference staff can be identified by their [TKTKTK color] t-shirts.
 
 Conference staff will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
-  - conduct@opensourceandfeelings.com
-  - [TKTKTK Phone number for conference security or organizers]
- - [TKTKTK Phone number for hotel/venue security]
- - [TKTKTK Local law enforcement]
- - [TKTKTK Local sexual assault hot line]
- - [TKTKTK Local emergency and non-emergency medical (e.g., urgent care, day clinic)]
- - [TKTKTK Local taxi company]
- - [TKTKTK Phone number for conference security or organizers]
- - [TKTKTK Phone number for hotel/venue security]
- - [TKTKTK Local law enforcement]
- - [TKTKTK Local sexual assault hot line]
- - [TKTKTK Local emergency and non-emergency medical (e.g., urgent care, day clinic)]
- - [TKTKTK Local taxi company]
+ - conduct@osfeels.com
 
 ### Scope
 
-We expect all community participants (guests, sponsors, and contributors, paid or otherwise) to abide by this Code of Conduct in all community venues–online and in-person—as well as in all one-on-one communications pertaining to community business.
+We expect all community participants (guests, sponsors, and contributors, paid or otherwise) to abide by this Code of Conduct in all community venues, online and in-person, as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-### Contact info
+## Contact Info
 
- - conduct@opensourceandfeelings.com
- - [TKTKTK Phone number for conference security or organizers]
- - [TKTKTK Phone number for hotel/venue security]
- - [TKTKTK Local law enforcement]
- - [TKTKTK Local sexual assault hot line]
- - [TKTKTK Local emergency and non-emergency medical (e.g., urgent care, day clinic)]
- - [TKTKTK Local taxi company]
+ - conduct@osfeels.com
 
 _**We expect participants to follow these rules at all conference venues and conference-related social events.**_

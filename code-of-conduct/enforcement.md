@@ -43,12 +43,6 @@ A participant may be expelled by the decision of organizers for whatever reasons
 Security and local authorities should be contacted when appropriate.
 
  - conduct@opensourceandfeelings.com
- - [TKTKTK Phone number for conference security or organizers]
- - [TKTKTK Phone number for hotel/venue security]
- - [TKTKTK Local law enforcement]
- - [TKTKTK Local sexual assault hot line]
- - [TKTKTK Local emergency and non-emergency medical (e.g., urgent care, day clinic)]
- - [TKTKTK Local taxi company]
 
 ## Public statements
 
