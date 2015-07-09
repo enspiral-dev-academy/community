@@ -5,7 +5,7 @@ The Open Source & Feelings code of conduct is based on the [Geek Feminism Confer
 There are two versions:
 
 - The [short version](short.md) is ideal for including with our email newsletter.
-- The [long version] is suitable for the website and specifies the nuts and bolts of the policy.
+- The [long version](long.md) is suitable for the website and specifies the nuts and bolts of the policy.
 
 Additionally, we have an [enforcement policy](enforcement.md) for conference organizers.
 
