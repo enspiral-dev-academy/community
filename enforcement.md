@@ -2,9 +2,9 @@
 
 ## Warnings
 
-Any member of conference staff can issue a verbal warning to a participant that their behavior violates the conference's Code of Conduct. Warnings should be reported to conduct@opensourceandfeelings.com as soon as practical. The report should include:
+Any member staff member can issue a verbal warning to a participant that their behavior violates Enspiral Dev Academy's Code of Conduct. Warnings should be reported to conduct@opensourceandfeelings.com as soon as practical. The report should include:
 
- - Identifying information (name/badge number) of the participant
+ - Identifying information
  - The time you issued the warning
  - The behavior that was in violation
  - The approximate time of the behavior (if different than the time of warning)
@@ -14,15 +14,15 @@ Any member of conference staff can issue a verbal warning to a participant that 
 
 ## Presentations
 
-Presentations or similar events should not be stopped for one-time gaffes or minor problems, although a member of conference staff should speak to the presenter afterward. However, staff should take immediate action to politely and calmly stop any presentation or event that repeatedly or seriously violates the Code of Conduct. For example, simply say "I'm sorry, this presentation cannot be continued at the present time" with no further explanation.
+Presentations or similar events should not be stopped for one-time gaffes or minor problems, although a staff member should speak to the presenter afterward. However, staff should take immediate action to politely and calmly stop any presentation or event that repeatedly or seriously violates the Code of Conduct. For example, simply say "I'm sorry, this presentation cannot be continued at the present time" with no further explanation.
 
 ## Taking reports
 
-When taking a report from someone experiencing harassment you should record what they say and reassure them they are being taken seriously, but avoid making specific promises about what actions the organizers will take. Ask for any other information if the reporter has not volunteered it (such as time, place) but do not pressure them to provide it if they are reluctant. **Even if the report lacks important details such as the identity of the person taking the harassing actions, it should still be recorded and passed along to the appropriate staff members.**
+When taking a report from someone experiencing harassment you should record what they say and reassure them they are being taken seriously, but avoid making specific promises about what actions the staff will take. Ask for any other information if the reporter has not volunteered it (such as time, place) but do not pressure them to provide it if they are reluctant. **Even if the report lacks important details such as the identity of the person taking the harassing actions, it should still be recorded and passed along to the appropriate staff members.**
 
-If the reporter desires it, arrange for an escort by conference staff or a trusted person, contact a friend, and contact local law enforcement. Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing unnecessary details with others, especially individuals who were not involved with the situation or non-staff members. The report should include:
+If the reporter desires it, arrange for an escort by staff or a trusted person, contact a friend, and contact local law enforcement. Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing unnecessary details with others, especially individuals who were not involved with the situation or non-staff members. The report should include:
 
- - Identifying information (name/badge number) of the participant
+ - Identifying information of the participant
  - The time you issued the warning
  - The behavior that was in violation
  - The approximate time of the behavior (if different than the time of warning)
@@ -32,7 +32,7 @@ If the reporter desires it, arrange for an escort by conference staff or a trust
 
 ## Expulsion
 
-A participant may be expelled by the decision of organizers for whatever reasons they deem sufficient. However, here are some general guidelines for when a participant should be expelled:
+A participant may be expelled by the decision of Enspiral Dev Academy staff for whatever reasons they deem sufficient. However, here are some general guidelines for when someone should be expelled:
 
  - A single serious offense (e.g., punching or groping someone)
  - A single obviously intentional offense (e.g., taking photos without permission)
@@ -42,10 +42,10 @@ A participant may be expelled by the decision of organizers for whatever reasons
 
 Security and local authorities should be contacted when appropriate.
 
- - conduct@opensourceandfeelings.com
+ - [help@devacademy.co.nz]()
 
 ## Public statements
 
-As a general rule, conference staff should not make any public statements about the behavior of individual people during or after the conference.
+As a general rule, the staff should not make any public statements about the behavior of individual people.
 
 In general, consult with other staff members when possible but act when necessary.
