@@ -1,14 +1,12 @@
 # Short version
 
-Open Source & Feelings is dedicated to a safe, inclusive, welcoming, and harassment-free conference experience for everyone.
+Enspiral Dev Academy is dedicated to a safe, inclusive, welcoming, and harassment-free space for everyone.
 
-All attendees, speakers, sponsors and volunteers at Open Source and Feelings are required to abide by the code of conduct.
+All students, staff, speakers and volunteers at Enspiral Dev Academy are required to abide by the code of conduct.
 
 ## Need Help?
 
-Contact the organizers: conduct@opensourceandfeelings.com or use the phone number found in the emails we sent you.
-
-Our code of conduct can be found at: [TKTKTK - URL for full Code of Conduct]
+Contact any of the on-site staff, email the confidential [help@devacademy.co.nz]() or use any of the phone numbers found in the Phase Guide.
 
 # Long version
 
@@ -25,11 +23,11 @@ Our code of conduct can be found at: [TKTKTK - URL for full Code of Conduct]
 
 ## Purpose
 
-A primary goal of Open Source and Feelings is to be safe, inclusive, and welcoming to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
+A primary goal of Enspiral Dev Academy is to be safe, inclusive, and welcoming to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in Open Source and Feelings to help us create safe and positive experiences for everyone.
+We invite all those who participate in Enspiral Dev Academy to help us create safe and positive experiences for everyone.
 
 ## Open Citizenship
 
@@ -37,13 +35,13 @@ A supplemental goal of this Code of Conduct is to increase open citizenship by e
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
-**If you see someone who is making an extra effort to ensure our community is safe, welcoming, inclusive friendly, and encourages all participants to contribute to the fullest extent, we want to know.** Tell an organizer or email them at conduct@osfeels.com.
+**If you see someone who is making an extra effort to ensure our community is safe, welcoming, inclusive friendly, and encourages all participants to contribute to the fullest extent, we want to know.** Tell a staff member or email them at [help@devacademy.co.nz]().
 
 ## Code of Conduct
 
-All attendees, organizers, speakers, sponsors, and volunteers at Open Source & Feelings are required to abide by the code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
+All students, staff, speakers and volunteers at Enspiral Dev Academy are required to abide by the code of conduct. Staff and organisers will enforce this code throughout. We expect cooperation from all participants to help ensure a safe environment for everyone.
 
-Open Source & Feelings is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
+Enspiral Dev Academy is dedicated to providing a safe, inclusive, welcoming, harassment-free space for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
 
 ### Expected Behavior
 
@@ -74,9 +72,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 #### Harassment
 
-We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
-
-Sponsors are subject to the Code of Conduct. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff, including volunteers, should not wear sexualized clothing, or otherwise create a sexualized environment.
+We do not tolerate harassment of anyone in any form. Sexual language and imagery is not appropriate for any time, including talks and presentations. Participants violating these rules may be sanctioned or expelled from Enspiral Dev Academy without a refund at the discretion of the staff.
 
 Harassment includes:
 
@@ -89,13 +85,13 @@ Harassment includes:
  - inappropriate physical contact
  - unwelcome sexual attention
 
-No weapons of any kind, drugs, or alcohol are allowed at Open Source & Feelings venues.
+No weapons or illicit drugs any kind are allowed at Enspiral Dev Academy.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
 #### Consequences of Unacceptable Behavior
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+Unacceptable behavior from any community member, those with decision-making authority, will not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
@@ -103,24 +99,22 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ### Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible at conduct@osfeels.com.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a staff member or community organizer as soon as possible and or email [help@devacademy.co.nz]().
 
-If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
+If a participant engages in harassing behavior, the staff may take any action they deem appropriate, including warning the offender or expulsion from Enspiral Dev Academy with no refund. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a staff member immediately.
 
-Conference staff can be identified by their [TKTKTK color] t-shirts.
+Enspiral Dev Academy staff will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe while at Enspiral Dev Academy. We value your attendance.
 
-Conference staff will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
-
- - conduct@osfeels.com
+ - [help@devacademy.co.nz]()
 
 ### Scope
 
-We expect all community participants (guests, sponsors, and contributors, paid or otherwise) to abide by this Code of Conduct in all community venues, online and in-person, as well as in all one-on-one communications pertaining to community business.
+We expect all community participants (students, staff, speakers and volunteers) to abide by this Code of Conduct in all community venues, online and in-person, as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
 ## Contact Info
 
- - conduct@osfeels.com
+ - [help@devacademy.co.nz]()
 
-_**We expect participants to follow these rules at all conference venues and conference-related social events.**_
+_**We expect participants to follow these rules while at Enspiral Dev Academy and any of it's online spaces or social events.**_
